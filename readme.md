@@ -5,3 +5,5 @@ Using the following command to generate deployment script: 'azure site deploymen
 Generating deployment script for node.js Web Site
 
 https://github.com/azure-appservice-samples/HTML5EmptySiteTemplate
+
+https://blogs.msdn.microsoft.com/azureossds/2016/04/20/nodejs-and-npm-versions-on-azure-app-services/
